@@ -9,7 +9,7 @@ namespace git_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bbb");
+            Console.WriteLine("ccc");
         }
     }
 }
