@@ -10,7 +10,7 @@ namespace git_test
         static void Main(string[] args)
         {
 
-            Console.WriteLine("test2");
+            Console.WriteLine("test3");
         }
     }
 }
